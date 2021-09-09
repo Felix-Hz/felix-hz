@@ -1,8 +1,8 @@
 ## Well, hello there! :octocat:
 
-<p align="center">
 ## About
 
+<p align="center">
 - 🔍  I’m a Psychology student at [Universidad del Salvador], rambling around Academia and pursuing a tech career. 
 - 💻  I’m currently learning Full Stack Web Development at [Digital House], but I'm also interested in Data Science.
 - ⚡  I love music, cycling and philosophy. 
