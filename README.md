@@ -8,7 +8,5 @@
 - 🃏 Jack of all trades, master of none.
 - 📍 Buenos Aires, Argentina. 
 
-<!--
 [digital house]: https://www.digitalhouse.com
 [Universidad del Salvador]: http://www.usal.edu.ar/
--->
