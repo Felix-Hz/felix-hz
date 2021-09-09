@@ -2,7 +2,6 @@
 
 ## About
 
-<p align="center">
 - 🔍  I’m a Psychology student at [Universidad del Salvador], rambling around Academia and pursuing a tech career. 
 - 💻  I’m currently learning Full Stack Web Development at [Digital House], but I'm also interested in Data Science.
 - ⚡  I love music, cycling and philosophy. 
@@ -10,4 +9,3 @@
 
 [digital house]: https://www.digitalhouse.com
 [Universidad del Salvador]: http://www.usal.edu.ar/
-</p>
