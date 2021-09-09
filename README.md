@@ -2,7 +2,7 @@
 
 ## About
 
-- 🔍  I’m a Psychology student at [Universidad del Salvador], rambling around the idea of getting into Academia or pursuing a tech career. 
+- 🔍  I’m a Psychology student at [Universidad del Salvador], thinking about the idea of getting into Academia or pursuing a tech career. 
 - 💻  I’m currently learning Full Stack Web Development at [Digital House], but I'm also interested in Data Science.
 - ⚡  I love music, cycling and philosophy. 
 - 📍 Buenos Aires, Argentina. 
