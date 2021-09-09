@@ -1,4 +1,4 @@
-## ¡Hola! :octocat:
+## ¡Hi there! :octocat:
 
 ### About me
 
