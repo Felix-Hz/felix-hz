@@ -1,6 +1,6 @@
-<p align="center">
 ## Well, hello there! :octocat:
 
+<p align="center">
 ## About
 
 - 🔍  I’m a Psychology student at [Universidad del Salvador], rambling around Academia and pursuing a tech career. 
