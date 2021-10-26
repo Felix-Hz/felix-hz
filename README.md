@@ -2,8 +2,8 @@
 
 ## About
 
-- 🔍  I’m a Psychology student at [Universidad del Salvador], trying to pursue a dev career. 
-- 💻  I’m currently learning Full Stack Web Development at [Digital House], but I'm also interested in Data Science.
+- 💻 Code padawan pursuing a dev career. I’m currently taking a Full Stack Web Development Bootcamp at [Digital House]. 
+- 🔍 I’m a Psychology student at [Universidad del Salvador], interested in Data Science.
 - ⚡  I love music, cycling and philosophy. 
 - 📍 Buenos Aires, Argentina. 
 
