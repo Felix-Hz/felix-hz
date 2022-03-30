@@ -2,7 +2,7 @@
 
 ## About
 
-- 💻 Code padawan pursuing a dev career. I’m currently taking a Full Stack Web Development Bootcamp at [Digital House]. 
+- 💻 Code padawan pursuing a dev career. 
 - 🔍 Psychology student at [Universidad del Salvador], also interested in Data Science.
 - ⚡  I love music, cycling and philosophy. 
 - 📍 Buenos Aires, Argentina. 
