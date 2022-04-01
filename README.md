@@ -1,5 +1,14 @@
 # Well, hello there! :octocat:
 
+```
+{
+  "name": "Félix",
+  "age": 23,
+  "goals" : ["codeAFuckingLot", "consistency", "learn", "connect"],
+  "topicsOfInterest" : ["Python", "Machine Learning", "Stats", "Full-Stack Webdev"]
+}
+```
+
 ## About
 
 - 💻 Code padawan pursuing a dev career. 
@@ -7,5 +16,4 @@
 - ⚡  I love music, cycling and philosophy. 
 - 📍 Buenos Aires, Argentina. 
 
-[digital house]: https://www.digitalhouse.com
 [Universidad del Salvador]: http://www.usal.edu.ar/
