@@ -1,4 +1,6 @@
-# Well, hello there! :octocat:
+:octocat:
+
+# Well, hello there!
 
 ```
 {
