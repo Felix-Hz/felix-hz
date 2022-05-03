@@ -11,7 +11,7 @@
 
 ## About
 
-- 💻 Code padawan pursuing a dev career. In the seek of twisting time with Hooks & Data. 		
+- 💻 Code's apprentice. In the seek of twisting time with Hooks & Data. 		
 - 🔍 Psychology student at [Universidad del Salvador] interested in the Front-End, and Data Science.
 - ⚡ Mediocre musician, low-performance cycler and drunk uncle philosophy. 
 - 📍 Buenos Aires, Argentina. 
