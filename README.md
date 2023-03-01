@@ -3,17 +3,14 @@
 ```
 {
   "name": "Félix",
-  "age": 23,
-  "goals" : ["codeAFuckingLot", "consistency", "learn", "connect"],
-  "topicsOfInterest" : ["Front-End", "React", "Python", "Machine Learning", "Stats"]
+  "age": 24,
+  "topicsOfInterest" : ["Python", "Data", "Cloud", "Back-End", "React.js"]
 }
 ```
 
 ## About
 
 - 💻 Code's apprentice. In the seek of twisting time with Hooks & Data. 		
-- 🔍 Psychology student at [Universidad del Salvador] interested in the Front-End, and Data Science.
+- 🔍 Interested in the Front-End, and Data Science.
 - ⚡ Mediocre musician, low-performance cycler and drunk uncle philosophy. 
 - 📍 Buenos Aires, Argentina. 
-
-[Universidad del Salvador]: http://www.usal.edu.ar/
