@@ -11,6 +11,5 @@
 ## About
 
 - 💻 Code's apprentice. In the seek of twisting time with Hooks & Data. 		
-- 🔍 Interested in the Front-End, and Data Science.
-- ⚡ Mediocre musician, low-performance cycler and drunk uncle philosophy. 
+- 🔍 Interested in Data Science, Full-Stack Web Development, Linux and Cloud technlogies. 
 - 📍 Buenos Aires, Argentina. 
