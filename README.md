@@ -36,5 +36,3 @@
 ## Developer, I command you to not be too serious:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-
-#### ❗Ok, before you move forward: not to be doom & gloom but we're all going to die.
