@@ -11,8 +11,7 @@
 ## about-me
 
 - 💻 code's apprentice, in the seek of twisting time with Hooks & Data 		
-- 🔍 interested in Data Science, Full-Stack Web Development, Linux and Cloud technlogies 
-- 📍 everywhere.
+- 📍 everywhere
 
 ## ~
 
