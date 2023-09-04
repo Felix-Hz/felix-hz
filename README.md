@@ -1,4 +1,4 @@
-# hi
+# console.log(\`hi, ${`whoami`}\`)
 
 ```
 {
@@ -8,12 +8,12 @@
 }
 ```
 
-## about-me
+## about-me.txt
 
 - 💻 code's apprentice, in the seek of twisting time with Hooks & Data 		
 - 📍 everywhere
 
-## ~
+## for _ in my_stack: print(_)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -32,6 +32,6 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
-## echo "laugh" > random-joke.txt
+## random-joke.sh
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
