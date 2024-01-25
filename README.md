@@ -6,7 +6,7 @@
 ```
 {
   "name": "felix",
-  "description": "softwareDeveloper[cloudCertified == True]",
+  "description": `${softwareDeveloper[cloudCertified == True]}`,
   "topicsOfInterest" : ["python", "typeScript", "cloud", "linux"]
 }
 ```
