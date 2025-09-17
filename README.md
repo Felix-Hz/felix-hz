@@ -6,8 +6,10 @@
 ```
 {
   "role": "softwareEngineer",
-  "preferredLanguages": ["python", "typeScript", "golang"],
-  "topicsOfInterest" : ["cloud", "linux", "systemsDesign", "security"]
+  "skills": {
+    "languages": ["python", "typescript", "golang"],
+    "interests": ["systemsDesign", "security", "linux"]
+  }
 }
 ```
 <br>
