@@ -5,8 +5,8 @@
 
 ```
 {
-  "name": "felix",
-  "programmingLanguages": ["python", "typeScript", "golang"],
+  "role": "softwareEngineer",
+  "preferredLanguages": ["python", "typeScript", "golang"],
   "topicsOfInterest" : ["cloud", "linux", "systemsDesign", "security"]
 }
 ```
