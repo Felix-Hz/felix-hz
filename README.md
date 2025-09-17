@@ -6,8 +6,8 @@
 ```
 {
   "name": "felix",
-  "description": `${softwareDeveloper[cloudCertified == True]}`,
-  "topicsOfInterest" : ["python", "typeScript", "cloud", "linux"]
+  "programmingLanguages": ["python", "typeScript", "golang"],
+  "topicsOfInterest" : ["cloud", "linux", "systemsDesign", "security"]
 }
 ```
 <br>
