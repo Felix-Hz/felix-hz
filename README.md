@@ -3,7 +3,7 @@
 
 <br>
 
-```
+```json
 {
   "role": "softwareEngineer",
   "skills": {
