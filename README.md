@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/headphones.svg" width="72" height="72" alt=""></p>
+<p align="center"><img src="assets/headphones.svg" width="80" height="80" alt=""></p>
 <p align="center">jack of all trades, master of none, though often better than a master of one.</p>
 
 ---
